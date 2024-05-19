@@ -1,0 +1,13 @@
+.Title{
+    font-size: 100px;
+    color:rgb(102, 4, 137);
+    position:relative;
+    bottom: 150px;
+    left:10px;
+}
+html{
+    background-color: rgb(184, 136, 229);
+}
+.title{
+    text-shadow: 5px 5px 5px rgb(33, 2, 66);
+}
